@@ -3,11 +3,7 @@
 
 ## 🔊 Pronunciation
 
-**Male:** <audio controls><source src="./male.m4a" type="audio/mp4">आपका ब्राउजर में ऑडियो तत्व समर्थित नहीं है।
-</audio>
-
-**Female:** <audio controls><source src="./female.m4a" type="audio/mp4">आपका ब्राउजर में ऑडियो तत्व समर्थित नहीं है।
-</audio>
+**Male:** [🔊 Listen](./male.m4a) | **Female:** [🔊 Listen](./female.m4a)
 
 *[पचाकुटेक गुदा बास - Pachakutek Guda Baas]*
 
